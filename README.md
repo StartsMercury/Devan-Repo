@@ -1,5 +1,5 @@
 # Devan-Repo
-My maven repo
+Fork of [Devan-Kerman]'s maven repo
 ```groovy
 repositories {
 	maven {
@@ -8,3 +8,5 @@ repositories {
 }
 
 ```
+
+[Devan-Kerman]: https://github.com/Devan-Kerman
