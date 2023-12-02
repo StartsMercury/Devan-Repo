@@ -9,7 +9,7 @@ Fork of [Devan-Kerman]'s maven repo as part of an effort to restore "lost" versi
 ```kotlin
 repositories {
     maven {
-        url = uri("https://raw.githubusercontent.com/StartsMercury/Devan-Repo/master/)
+        url = uri("https://raw.githubusercontent.com/StartsMercury/Devan-Repo/master")
     }
 }
 
